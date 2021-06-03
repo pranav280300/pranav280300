@@ -12,25 +12,21 @@
 
 ### Experience
 - I am a **3rd Year Computer Science Undergraduate** student at Manipal University Jaipur.
-- Student Developer [**@GoogleSummerOfCode'21**](https://summerofcode.withgoogle.com/projects/#5690075263795200).
-- Open source contributor at [**@react-native-elements**](https://github.com/react-native-elements), [**@mantinedev**](https://github.com/mantinedev).
-- Former Participant _[**@GirlScriptSummerOfCode**'19](https://gssoc.tech/)_.
-- Former Intern at Farziengineer.
-- Secured winning positions at 3+ Hackathons.
+- - Intern at Quicko.
 - Worked on projects - **Letarez, MBOAFoods, DollarVendorApp, Socbays, Parnarate**.
 
 ###  About me
-- 🔭 I’m currently working on *developing skills, javascript, typescript, side projects, open source*.
-- 🌱 I’m currently learning anything *related to Javascript, GraphQL, React Native, React.*
+- 🔭 I’m currently working on *developing skills, javascript, side projects, flutter,problem solving*.
+- 🌱 I’m currently learning anything *related to Javascript, GraphQL,Flutter, React.*
 - 🤔 Anyone looking for help can reach out.
-- 💬 Ask me about *Javascript, Typescript MERN stack, React Native and softwares that scale.*
-- 📫 How to reach me: Email me at - **khushal.agarwal987@gmail.com**
+- 💬 Ask me about *Javascript, MERN stack, React Native and softwares that scale.*
+- 📫 How to reach me: Email me at - **pranav280300@gmail.com**
 - ⚡ Fun fact: *I love JavaScript ❤️* 
 
 ## Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-C++          1 hr 13 mins    ██████████░░░░░░░░░░░░░░░   40.46 % 
+C++          2 hr 13 mins    ██████████░░░░░░░░░░░░░░░   40.46 % 
 TypeScript   1 hr 12 mins    ██████████░░░░░░░░░░░░░░░   40.33 % 
 Text         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
