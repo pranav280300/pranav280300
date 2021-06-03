@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Tanpure</h1>
 <!-- <p align="center">
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=khushal87&hide_border=true'/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=pranav280300&hide_border=true'/>
 </p> -->
 
 <p align="center">
