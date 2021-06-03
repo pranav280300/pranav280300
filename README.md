@@ -29,6 +29,6 @@ JSON         7 mins          █░░░░░░░░░░░░░░░░
 Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 <!--END_SECTION:waka-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal87&count_private=true&show_icons=true" alt="khushal87"/></p>
+
 
 
