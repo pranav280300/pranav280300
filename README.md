@@ -10,7 +10,8 @@
 
 ### Experience
 - I am a **3rd Year Computer Science Undergraduate** student at Manipal University Jaipur.
-- Full-Stack Intern at Quicko.
+- Incoming Full-Stack Intern at Quicko.
+- worked at Campk12 as a web development instructor. 
 ###  About me
 - 🔭 I’m currently working on *developing skills, javascript, side projects, flutter,problem solving*.
 - 🌱 I’m currently learning anything *related to Javascript, GraphQL,Flutter, React.*
@@ -26,7 +27,6 @@
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white'/> <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'/> <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'/> <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'/>
 
 <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'/> <img src='https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white'/> <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'/> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
-
 
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=pranav280300&count_private=true&show_icons=true'/>
