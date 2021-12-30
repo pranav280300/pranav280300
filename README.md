@@ -10,7 +10,8 @@
 
 ### Experience
 - I am a **3rd Year Computer Science Undergraduate** student at Manipal University Jaipur.
-- Full-Stack Intern at Quicko.
+- Incoming SDE Intern at Clappia
+- Ex-Full-Stack Intern at Quicko.
 - worked at Campk12 as a web development instructor. 
 ###  About me
 - 🔭 I’m currently working on *developing skills, javascript, side projects, flutter,problem solving*.
