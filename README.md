@@ -30,9 +30,10 @@
 
 <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'/> <img src='https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white'/> <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'/> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white'/>
 
+<img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'/> <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'/> <img src='https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white'/> 
+
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=pranav280300&count_private=true&show_icons=true'/>
 </p>
-
 
 
