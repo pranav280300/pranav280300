@@ -9,7 +9,8 @@
 
 
 ### Experience
-- I am a **4th Year Computer Science Undergraduate** student at Manipal University Jaipur.
+- A Full-Stack Developer and problem Solver with 2 years of Experience.
+- SDE 1 at Clappia
 - SDE Intern at Clappia
 - Ex-Full-Stack Intern at Quicko.
 - worked at Campk12 as a web development instructor. 
